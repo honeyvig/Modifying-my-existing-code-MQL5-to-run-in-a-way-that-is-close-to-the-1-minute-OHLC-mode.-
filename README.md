@@ -1,0 +1,1 @@
+# Modifying-my-existing-code-MQL5-to-run-in-a-way-that-is-close-to-the-1-minute-OHLC-mode.-
